@@ -92,4 +92,4 @@ while loop:
     else:
         print("That is not a valid input, please try again.")
 
-    print(resources['coffee'])
+#     print(resources['coffee'])
